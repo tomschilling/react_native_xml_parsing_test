@@ -1,0 +1,2011 @@
+{
+    "rwleague": {
+        "$": {
+            "author": "rugbyweb.de",
+            "lastUpdate": "2020-03-16 10:25:49"
+        },
+        "season": [
+            {
+                "$": {
+                    "name": "Saison 2019-2020",
+                    "startYear": "2019",
+                    "endYear": "2020"
+                }
+            }
+        ],
+        "league": [
+            {
+                "$": {
+                    "id": "761",
+                    "name": "1. Bundesliga Nord/Ost",
+                    "age": "SEN",
+                    "competition": "1",
+                    "compText": "Ligabetrieb",
+                    "calculation": "4",
+                    "calcText": "4-2-0 mit Bonuspunkten"
+                },
+                "calculation": [
+                    {
+                        "$": {
+                            "won": "4",
+                            "draw": "2",
+                            "lost": "0",
+                            "uncompeted": "-2",
+                            "penalty": "50",
+                            "bonusTriesBase": "4",
+                            "bonusDifferenceBase": "7",
+                            "bonusForfeit": "1"
+                        }
+                    }
+                ]
+            }
+        ],
+        "table": [
+            {
+                "standing": [
+                    {
+                        "_": "Hannover 78",
+                        "$": {
+                            "rang": "1",
+                            "games": "8",
+                            "won": "8",
+                            "draw": "0",
+                            "lost": "0",
+                            "uncompeted": "0",
+                            "scored": "308",
+                            "against": "102",
+                            "bonusTries": "5",
+                            "bonusDifference": "0",
+                            "points": "37"
+                        }
+                    },
+                    {
+                        "_": "RC Leipzig",
+                        "$": {
+                            "rang": "2",
+                            "games": "8",
+                            "won": "5",
+                            "draw": "1",
+                            "lost": "2",
+                            "uncompeted": "0",
+                            "scored": "248",
+                            "against": "173",
+                            "bonusTries": "5",
+                            "bonusDifference": "1",
+                            "points": "28"
+                        }
+                    },
+                    {
+                        "_": "RK 03 Berlin",
+                        "$": {
+                            "rang": "3",
+                            "games": "8",
+                            "won": "5",
+                            "draw": "0",
+                            "lost": "3",
+                            "uncompeted": "0",
+                            "scored": "243",
+                            "against": "178",
+                            "bonusTries": "5",
+                            "bonusDifference": "1",
+                            "points": "26"
+                        }
+                    },
+                    {
+                        "_": "Berliner Rugby Club",
+                        "$": {
+                            "rang": "4",
+                            "games": "8",
+                            "won": "4",
+                            "draw": "0",
+                            "lost": "4",
+                            "uncompeted": "0",
+                            "scored": "284",
+                            "against": "183",
+                            "bonusTries": "6",
+                            "bonusDifference": "3",
+                            "points": "25"
+                        }
+                    },
+                    {
+                        "_": "SC Germania List",
+                        "$": {
+                            "rang": "5",
+                            "games": "8",
+                            "won": "4",
+                            "draw": "1",
+                            "lost": "3",
+                            "uncompeted": "0",
+                            "scored": "185",
+                            "against": "166",
+                            "bonusTries": "1",
+                            "bonusDifference": "1",
+                            "points": "20"
+                        }
+                    },
+                    {
+                        "_": "RC Berlin Grizzlies",
+                        "$": {
+                            "rang": "6",
+                            "games": "8",
+                            "won": "3",
+                            "draw": "0",
+                            "lost": "5",
+                            "uncompeted": "0",
+                            "scored": "169",
+                            "against": "221",
+                            "bonusTries": "3",
+                            "bonusDifference": "0",
+                            "points": "15"
+                        }
+                    },
+                    {
+                        "_": "Hamburger RC",
+                        "$": {
+                            "rang": "7",
+                            "games": "8",
+                            "won": "2",
+                            "draw": "0",
+                            "lost": "6",
+                            "uncompeted": "0",
+                            "scored": "167",
+                            "against": "271",
+                            "bonusTries": "2",
+                            "bonusDifference": "2",
+                            "points": "12"
+                        }
+                    },
+                    {
+                        "_": "SG Odin/VfR Döhren",
+                        "$": {
+                            "rang": "8",
+                            "games": "8",
+                            "won": "0",
+                            "draw": "0",
+                            "lost": "8",
+                            "uncompeted": "0",
+                            "scored": "140",
+                            "against": "450",
+                            "bonusTries": "3",
+                            "bonusDifference": "2",
+                            "points": "5"
+                        }
+                    }
+                ]
+            }
+        ],
+        "matches": [
+            {
+                "match": [
+                    {
+                        "$": {
+                            "id": "2",
+                            "round": "1",
+                            "date": "07.09.2019",
+                            "time": "14:00"
+                        },
+                        "homeTeam": [
+                            "SC Germania List"
+                        ],
+                        "awayTeam": [
+                            "Berliner Rugby Club"
+                        ],
+                        "result": [
+                            {
+                                "$": {
+                                    "id": "2",
+                                    "round": "1",
+                                    "date": "07.09.2019",
+                                    "time": "14:00"
+                                },
+                                "home": [
+                                    {
+                                        "$": {
+                                            "score": "24",
+                                            "tries": "2",
+                                            "bonus": "0",
+                                            "points": "4"
+                                        }
+                                    }
+                                ],
+                                "away": [
+                                    {
+                                        "$": {
+                                            "score": "22",
+                                            "tries": "4",
+                                            "bonus": "2",
+                                            "points": "2"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "1",
+                            "round": "1",
+                            "date": "07.09.2019",
+                            "time": "15:00"
+                        },
+                        "homeTeam": [
+                            "RK 03 Berlin"
+                        ],
+                        "awayTeam": [
+                            "RC Leipzig"
+                        ],
+                        "result": [
+                            {
+                                "$": {
+                                    "id": "1",
+                                    "round": "1",
+                                    "date": "07.09.2019",
+                                    "time": "15:00"
+                                },
+                                "home": [
+                                    {
+                                        "$": {
+                                            "score": "29",
+                                            "tries": "5",
+                                            "bonus": "1",
+                                            "points": "5"
+                                        }
+                                    }
+                                ],
+                                "away": [
+                                    {
+                                        "$": {
+                                            "score": "28",
+                                            "tries": "4",
+                                            "bonus": "2",
+                                            "points": "2"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "4",
+                            "round": "1",
+                            "date": "07.09.2019",
+                            "time": "16:00"
+                        },
+                        "homeTeam": [
+                            "Hannover 78"
+                        ],
+                        "awayTeam": [
+                            "Hamburger RC"
+                        ],
+                        "result": [
+                            {
+                                "$": {
+                                    "id": "4",
+                                    "round": "1",
+                                    "date": "07.09.2019",
+                                    "time": "16:00"
+                                },
+                                "home": [
+                                    {
+                                        "$": {
+                                            "score": "50",
+                                            "tries": "8",
+                                            "bonus": "1",
+                                            "points": "5"
+                                        }
+                                    }
+                                ],
+                                "away": [
+                                    {
+                                        "$": {
+                                            "score": "13",
+                                            "tries": "1",
+                                            "bonus": "0",
+                                            "points": "0"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "3",
+                            "round": "1",
+                            "date": "08.09.2019",
+                            "time": "16:00"
+                        },
+                        "homeTeam": [
+                            {
+                                "_": "SG Odin/VfR Döhren",
+                                "$": {
+                                    "club": "2",
+                                    "pitch": "VfR Döhren"
+                                }
+                            }
+                        ],
+                        "awayTeam": [
+                            "RC Berlin Grizzlies"
+                        ],
+                        "result": [
+                            {
+                                "$": {
+                                    "club": "2",
+                                    "pitch": "VfR Döhren"
+                                },
+                                "home": [
+                                    {
+                                        "$": {
+                                            "score": "22",
+                                            "tries": "3",
+                                            "bonus": "0",
+                                            "points": "0"
+                                        }
+                                    }
+                                ],
+                                "away": [
+                                    {
+                                        "$": {
+                                            "score": "52",
+                                            "tries": "8",
+                                            "bonus": "1",
+                                            "points": "5"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "5",
+                            "round": "2",
+                            "date": "14.09.2019",
+                            "time": "15:00"
+                        },
+                        "homeTeam": [
+                            "RC Leipzig"
+                        ],
+                        "awayTeam": [
+                            "SG Odin/VfR Döhren"
+                        ],
+                        "result": [
+                            {
+                                "$": {
+                                    "id": "5",
+                                    "round": "2",
+                                    "date": "14.09.2019",
+                                    "time": "15:00"
+                                },
+                                "home": [
+                                    {
+                                        "$": {
+                                            "score": "45",
+                                            "tries": "8",
+                                            "bonus": "1",
+                                            "points": "5"
+                                        }
+                                    }
+                                ],
+                                "away": [
+                                    {
+                                        "$": {
+                                            "score": "19",
+                                            "tries": "3",
+                                            "bonus": "0",
+                                            "points": "0"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "6",
+                            "round": "2",
+                            "date": "14.09.2019",
+                            "time": "15:00"
+                        },
+                        "homeTeam": [
+                            "RC Berlin Grizzlies"
+                        ],
+                        "awayTeam": [
+                            "Hannover 78"
+                        ],
+                        "comment": [
+                            "Parkstraße 1, 16515 Oranienburg"
+                        ],
+                        "result": [
+                            {
+                                "$": {
+                                    "id": "6",
+                                    "round": "2",
+                                    "date": "14.09.2019",
+                                    "time": "15:00"
+                                },
+                                "home": [
+                                    {
+                                        "$": {
+                                            "score": "21",
+                                            "tries": "3",
+                                            "bonus": "0",
+                                            "points": "0"
+                                        }
+                                    }
+                                ],
+                                "away": [
+                                    {
+                                        "$": {
+                                            "score": "29",
+                                            "tries": "4",
+                                            "bonus": "1",
+                                            "points": "5"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "7",
+                            "round": "2",
+                            "date": "14.09.2019",
+                            "time": "15:00"
+                        },
+                        "homeTeam": [
+                            "Hamburger RC"
+                        ],
+                        "awayTeam": [
+                            "SC Germania List"
+                        ],
+                        "result": [
+                            {
+                                "$": {
+                                    "id": "7",
+                                    "round": "2",
+                                    "date": "14.09.2019",
+                                    "time": "15:00"
+                                },
+                                "home": [
+                                    {
+                                        "$": {
+                                            "score": "27",
+                                            "tries": "3",
+                                            "bonus": "0",
+                                            "points": "4"
+                                        }
+                                    }
+                                ],
+                                "away": [
+                                    {
+                                        "$": {
+                                            "score": "13",
+                                            "tries": "1",
+                                            "bonus": "0",
+                                            "points": "0"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "8",
+                            "round": "2",
+                            "date": "14.09.2019",
+                            "time": "15:00"
+                        },
+                        "homeTeam": [
+                            "Berliner Rugby Club"
+                        ],
+                        "awayTeam": [
+                            "RK 03 Berlin"
+                        ],
+                        "result": [
+                            {
+                                "$": {
+                                    "id": "8",
+                                    "round": "2",
+                                    "date": "14.09.2019",
+                                    "time": "15:00"
+                                },
+                                "home": [
+                                    {
+                                        "$": {
+                                            "score": "17",
+                                            "tries": "3",
+                                            "bonus": "1",
+                                            "points": "1"
+                                        }
+                                    }
+                                ],
+                                "away": [
+                                    {
+                                        "$": {
+                                            "score": "20",
+                                            "tries": "3",
+                                            "bonus": "0",
+                                            "points": "4"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "12",
+                            "round": "3",
+                            "date": "28.09.2019",
+                            "time": "14:00"
+                        },
+                        "homeTeam": [
+                            "Hannover 78"
+                        ],
+                        "awayTeam": [
+                            "SC Germania List"
+                        ],
+                        "result": [
+                            {
+                                "$": {
+                                    "id": "12",
+                                    "round": "3",
+                                    "date": "28.09.2019",
+                                    "time": "14:00"
+                                },
+                                "home": [
+                                    {
+                                        "$": {
+                                            "score": "24",
+                                            "tries": "3",
+                                            "bonus": "0",
+                                            "points": "4"
+                                        }
+                                    }
+                                ],
+                                "away": [
+                                    {
+                                        "$": {
+                                            "score": "17",
+                                            "tries": "2",
+                                            "bonus": "1",
+                                            "points": "1"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "9",
+                            "round": "3",
+                            "date": "28.09.2019",
+                            "time": "15:00"
+                        },
+                        "homeTeam": [
+                            "RK 03 Berlin"
+                        ],
+                        "awayTeam": [
+                            "Hamburger RC"
+                        ],
+                        "result": [
+                            {
+                                "$": {
+                                    "id": "9",
+                                    "round": "3",
+                                    "date": "28.09.2019",
+                                    "time": "15:00"
+                                },
+                                "home": [
+                                    {
+                                        "$": {
+                                            "score": "25",
+                                            "tries": "5",
+                                            "bonus": "1",
+                                            "points": "5"
+                                        }
+                                    }
+                                ],
+                                "away": [
+                                    {
+                                        "$": {
+                                            "score": "15",
+                                            "tries": "2",
+                                            "bonus": "0",
+                                            "points": "0"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "10",
+                            "round": "3",
+                            "date": "28.09.2019",
+                            "time": "15:00"
+                        },
+                        "homeTeam": [
+                            "RC Berlin Grizzlies"
+                        ],
+                        "awayTeam": [
+                            "RC Leipzig"
+                        ],
+                        "comment": [
+                            "Am Neuen Palais 10, 14469 Potsdam"
+                        ],
+                        "result": [
+                            {
+                                "$": {
+                                    "id": "10",
+                                    "round": "3",
+                                    "date": "28.09.2019",
+                                    "time": "15:00"
+                                },
+                                "home": [
+                                    {
+                                        "$": {
+                                            "score": "14",
+                                            "tries": "2",
+                                            "bonus": "0",
+                                            "points": "0"
+                                        }
+                                    }
+                                ],
+                                "away": [
+                                    {
+                                        "$": {
+                                            "score": "22",
+                                            "tries": "3",
+                                            "bonus": "0",
+                                            "points": "4"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "11",
+                            "round": "3",
+                            "date": "29.09.2019",
+                            "time": "14:00"
+                        },
+                        "homeTeam": [
+                            {
+                                "_": "SG Odin/VfR Döhren",
+                                "$": {
+                                    "club": "1",
+                                    "pitch": "Odin"
+                                }
+                            }
+                        ],
+                        "awayTeam": [
+                            "Berliner Rugby Club"
+                        ],
+                        "result": [
+                            {
+                                "$": {
+                                    "club": "1",
+                                    "pitch": "Odin"
+                                },
+                                "home": [
+                                    {
+                                        "$": {
+                                            "score": "25",
+                                            "tries": "4",
+                                            "bonus": "1",
+                                            "points": "1"
+                                        }
+                                    }
+                                ],
+                                "away": [
+                                    {
+                                        "$": {
+                                            "score": "68",
+                                            "tries": "11",
+                                            "bonus": "1",
+                                            "points": "5"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "13",
+                            "round": "4",
+                            "date": "05.10.2019",
+                            "time": "15:00"
+                        },
+                        "homeTeam": [
+                            "RC Leipzig"
+                        ],
+                        "awayTeam": [
+                            "Hannover 78"
+                        ],
+                        "result": [
+                            {
+                                "$": {
+                                    "id": "13",
+                                    "round": "4",
+                                    "date": "05.10.2019",
+                                    "time": "15:00"
+                                },
+                                "home": [
+                                    {
+                                        "$": {
+                                            "score": "8",
+                                            "tries": "1",
+                                            "bonus": "0",
+                                            "points": "0"
+                                        }
+                                    }
+                                ],
+                                "away": [
+                                    {
+                                        "$": {
+                                            "score": "21",
+                                            "tries": "3",
+                                            "bonus": "0",
+                                            "points": "4"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "14",
+                            "round": "4",
+                            "date": "05.10.2019",
+                            "time": "15:00"
+                        },
+                        "homeTeam": [
+                            "SC Germania List"
+                        ],
+                        "awayTeam": [
+                            "RK 03 Berlin"
+                        ],
+                        "result": [
+                            {
+                                "$": {
+                                    "id": "14",
+                                    "round": "4",
+                                    "date": "05.10.2019",
+                                    "time": "15:00"
+                                },
+                                "home": [
+                                    {
+                                        "$": {
+                                            "score": "26",
+                                            "tries": "3",
+                                            "bonus": "0",
+                                            "points": "4"
+                                        }
+                                    }
+                                ],
+                                "away": [
+                                    {
+                                        "$": {
+                                            "score": "20",
+                                            "tries": "3",
+                                            "bonus": "1",
+                                            "points": "1"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "15",
+                            "round": "4",
+                            "date": "05.10.2019",
+                            "time": "15:00"
+                        },
+                        "homeTeam": [
+                            "Hamburger RC"
+                        ],
+                        "awayTeam": [
+                            "SG Odin/VfR Döhren"
+                        ],
+                        "result": [
+                            {
+                                "$": {
+                                    "id": "15",
+                                    "round": "4",
+                                    "date": "05.10.2019",
+                                    "time": "15:00"
+                                },
+                                "home": [
+                                    {
+                                        "$": {
+                                            "score": "38",
+                                            "tries": "6",
+                                            "bonus": "1",
+                                            "points": "5"
+                                        }
+                                    }
+                                ],
+                                "away": [
+                                    {
+                                        "$": {
+                                            "score": "33",
+                                            "tries": "4",
+                                            "bonus": "2",
+                                            "points": "2"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "16",
+                            "round": "4",
+                            "date": "05.10.2019",
+                            "time": "15:00"
+                        },
+                        "homeTeam": [
+                            "Berliner Rugby Club"
+                        ],
+                        "awayTeam": [
+                            "RC Berlin Grizzlies"
+                        ],
+                        "result": [
+                            {
+                                "$": {
+                                    "id": "16",
+                                    "round": "4",
+                                    "date": "05.10.2019",
+                                    "time": "15:00"
+                                },
+                                "home": [
+                                    {
+                                        "$": {
+                                            "score": "34",
+                                            "tries": "6",
+                                            "bonus": "1",
+                                            "points": "5"
+                                        }
+                                    }
+                                ],
+                                "away": [
+                                    {
+                                        "$": {
+                                            "score": "13",
+                                            "tries": "2",
+                                            "bonus": "0",
+                                            "points": "0"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "20",
+                            "round": "5",
+                            "date": "19.10.2019",
+                            "time": "13:00"
+                        },
+                        "homeTeam": [
+                            "Hannover 78"
+                        ],
+                        "awayTeam": [
+                            "RK 03 Berlin"
+                        ],
+                        "result": [
+                            {
+                                "$": {
+                                    "id": "20",
+                                    "round": "5",
+                                    "date": "19.10.2019",
+                                    "time": "13:00"
+                                },
+                                "home": [
+                                    {
+                                        "$": {
+                                            "score": "20",
+                                            "tries": "2",
+                                            "bonus": "0",
+                                            "points": "4"
+                                        }
+                                    }
+                                ],
+                                "away": [
+                                    {
+                                        "$": {
+                                            "score": "8",
+                                            "tries": "1",
+                                            "bonus": "0",
+                                            "points": "0"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "17",
+                            "round": "5",
+                            "date": "19.10.2019",
+                            "time": "14:00"
+                        },
+                        "homeTeam": [
+                            "RC Leipzig"
+                        ],
+                        "awayTeam": [
+                            "Berliner Rugby Club"
+                        ],
+                        "result": [
+                            {
+                                "$": {
+                                    "id": "17",
+                                    "round": "5",
+                                    "date": "19.10.2019",
+                                    "time": "14:00"
+                                },
+                                "home": [
+                                    {
+                                        "$": {
+                                            "score": "50",
+                                            "tries": "8",
+                                            "bonus": "1",
+                                            "points": "5"
+                                        }
+                                    }
+                                ],
+                                "away": [
+                                    {
+                                        "$": {
+                                            "score": "12",
+                                            "tries": "2",
+                                            "bonus": "0",
+                                            "points": "0"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "18",
+                            "round": "5",
+                            "date": "19.10.2019",
+                            "time": "14:00"
+                        },
+                        "homeTeam": [
+                            "RC Berlin Grizzlies"
+                        ],
+                        "awayTeam": [
+                            "Hamburger RC"
+                        ],
+                        "comment": [
+                            "Parkstraße 1, 16515 Oranienburg"
+                        ],
+                        "result": [
+                            {
+                                "$": {
+                                    "id": "18",
+                                    "round": "5",
+                                    "date": "19.10.2019",
+                                    "time": "14:00"
+                                },
+                                "home": [
+                                    {
+                                        "$": {
+                                            "score": "28",
+                                            "tries": "4",
+                                            "bonus": "1",
+                                            "points": "5"
+                                        }
+                                    }
+                                ],
+                                "away": [
+                                    {
+                                        "$": {
+                                            "score": "26",
+                                            "tries": "2",
+                                            "bonus": "1",
+                                            "points": "1"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "19",
+                            "round": "5",
+                            "date": "20.10.2019",
+                            "time": "15:00"
+                        },
+                        "homeTeam": [
+                            {
+                                "_": "SG Odin/VfR Döhren",
+                                "$": {
+                                    "club": "2",
+                                    "pitch": "VfR Döhren"
+                                }
+                            }
+                        ],
+                        "awayTeam": [
+                            "SC Germania List"
+                        ],
+                        "result": [
+                            {
+                                "$": {
+                                    "club": "2",
+                                    "pitch": "VfR Döhren"
+                                },
+                                "home": [
+                                    {
+                                        "$": {
+                                            "score": "0",
+                                            "tries": "0",
+                                            "bonus": "0",
+                                            "points": "0"
+                                        }
+                                    }
+                                ],
+                                "away": [
+                                    {
+                                        "$": {
+                                            "score": "57",
+                                            "tries": "8",
+                                            "bonus": "1",
+                                            "points": "5"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "21",
+                            "round": "6",
+                            "date": "26.10.2019",
+                            "time": "14:00"
+                        },
+                        "homeTeam": [
+                            "RK 03 Berlin"
+                        ],
+                        "awayTeam": [
+                            "SG Odin/VfR Döhren"
+                        ],
+                        "result": [
+                            {
+                                "$": {
+                                    "id": "21",
+                                    "round": "6",
+                                    "date": "26.10.2019",
+                                    "time": "14:00"
+                                },
+                                "home": [
+                                    {
+                                        "$": {
+                                            "score": "77",
+                                            "tries": "11",
+                                            "bonus": "1",
+                                            "points": "5"
+                                        }
+                                    }
+                                ],
+                                "away": [
+                                    {
+                                        "$": {
+                                            "score": "19",
+                                            "tries": "3",
+                                            "bonus": "0",
+                                            "points": "0"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "22",
+                            "round": "6",
+                            "date": "26.10.2019",
+                            "time": "14:00"
+                        },
+                        "homeTeam": [
+                            "SC Germania List"
+                        ],
+                        "awayTeam": [
+                            "RC Berlin Grizzlies"
+                        ],
+                        "result": [
+                            {
+                                "$": {
+                                    "id": "22",
+                                    "round": "6",
+                                    "date": "26.10.2019",
+                                    "time": "14:00"
+                                },
+                                "home": [
+                                    {
+                                        "$": {
+                                            "score": "33",
+                                            "tries": "3",
+                                            "bonus": "0",
+                                            "points": "4"
+                                        }
+                                    }
+                                ],
+                                "away": [
+                                    {
+                                        "$": {
+                                            "score": "7",
+                                            "tries": "1",
+                                            "bonus": "0",
+                                            "points": "0"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "23",
+                            "round": "6",
+                            "date": "26.10.2019",
+                            "time": "14:00"
+                        },
+                        "homeTeam": [
+                            "Hamburger RC"
+                        ],
+                        "awayTeam": [
+                            "RC Leipzig"
+                        ],
+                        "result": [
+                            {
+                                "$": {
+                                    "id": "23",
+                                    "round": "6",
+                                    "date": "26.10.2019",
+                                    "time": "14:00"
+                                },
+                                "home": [
+                                    {
+                                        "$": {
+                                            "score": "32",
+                                            "tries": "4",
+                                            "bonus": "2",
+                                            "points": "2"
+                                        }
+                                    }
+                                ],
+                                "away": [
+                                    {
+                                        "$": {
+                                            "score": "35",
+                                            "tries": "5",
+                                            "bonus": "1",
+                                            "points": "5"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "25",
+                            "round": "7",
+                            "date": "09.11.2019",
+                            "time": "14:00"
+                        },
+                        "homeTeam": [
+                            "RC Leipzig"
+                        ],
+                        "awayTeam": [
+                            "SC Germania List"
+                        ],
+                        "result": [
+                            {
+                                "$": {
+                                    "id": "25",
+                                    "round": "7",
+                                    "date": "09.11.2019",
+                                    "time": "14:00"
+                                },
+                                "home": [
+                                    {
+                                        "$": {
+                                            "score": "15",
+                                            "tries": "2",
+                                            "bonus": "0",
+                                            "points": "2"
+                                        }
+                                    }
+                                ],
+                                "away": [
+                                    {
+                                        "$": {
+                                            "score": "15",
+                                            "tries": "2",
+                                            "bonus": "0",
+                                            "points": "2"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "26",
+                            "round": "7",
+                            "date": "09.11.2019",
+                            "time": "14:00"
+                        },
+                        "homeTeam": [
+                            "RC Berlin Grizzlies"
+                        ],
+                        "awayTeam": [
+                            "RK 03 Berlin"
+                        ],
+                        "comment": [
+                            "Parkstraße 1, 16515 Oranienburg"
+                        ],
+                        "result": [
+                            {
+                                "$": {
+                                    "id": "26",
+                                    "round": "7",
+                                    "date": "09.11.2019",
+                                    "time": "14:00"
+                                },
+                                "home": [
+                                    {
+                                        "$": {
+                                            "score": "8",
+                                            "tries": "1",
+                                            "bonus": "0",
+                                            "points": "0"
+                                        }
+                                    }
+                                ],
+                                "away": [
+                                    {
+                                        "$": {
+                                            "score": "33",
+                                            "tries": "5",
+                                            "bonus": "1",
+                                            "points": "5"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "27",
+                            "round": "7",
+                            "date": "09.11.2019",
+                            "time": "14:00"
+                        },
+                        "homeTeam": [
+                            {
+                                "_": "SG Odin/VfR Döhren",
+                                "$": {
+                                    "club": "1",
+                                    "pitch": "Odin"
+                                }
+                            }
+                        ],
+                        "awayTeam": [
+                            "Hannover 78"
+                        ],
+                        "result": [
+                            {
+                                "$": {
+                                    "club": "1",
+                                    "pitch": "Odin"
+                                },
+                                "home": [
+                                    {
+                                        "$": {
+                                            "score": "0",
+                                            "tries": "0",
+                                            "bonus": "0",
+                                            "points": "0"
+                                        }
+                                    }
+                                ],
+                                "away": [
+                                    {
+                                        "$": {
+                                            "score": "87",
+                                            "tries": "13",
+                                            "bonus": "1",
+                                            "points": "5"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "28",
+                            "round": "7",
+                            "date": "09.11.2019",
+                            "time": "14:00"
+                        },
+                        "homeTeam": [
+                            "Berliner Rugby Club"
+                        ],
+                        "awayTeam": [
+                            "Hamburger RC"
+                        ],
+                        "result": [
+                            {
+                                "$": {
+                                    "id": "28",
+                                    "round": "7",
+                                    "date": "09.11.2019",
+                                    "time": "14:00"
+                                },
+                                "home": [
+                                    {
+                                        "$": {
+                                            "score": "48",
+                                            "tries": "8",
+                                            "bonus": "1",
+                                            "points": "5"
+                                        }
+                                    }
+                                ],
+                                "away": [
+                                    {
+                                        "$": {
+                                            "score": "13",
+                                            "tries": "3",
+                                            "bonus": "0",
+                                            "points": "0"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "24",
+                            "round": "6",
+                            "date": "16.11.2019",
+                            "time": "14:00"
+                        },
+                        "homeTeam": [
+                            "Berliner Rugby Club"
+                        ],
+                        "awayTeam": [
+                            "Hannover 78"
+                        ],
+                        "result": [
+                            {
+                                "$": {
+                                    "id": "24",
+                                    "round": "6",
+                                    "date": "16.11.2019",
+                                    "time": "14:00"
+                                },
+                                "home": [
+                                    {
+                                        "$": {
+                                            "score": "32",
+                                            "tries": "4",
+                                            "bonus": "2",
+                                            "points": "2"
+                                        }
+                                    }
+                                ],
+                                "away": [
+                                    {
+                                        "$": {
+                                            "score": "38",
+                                            "tries": "6",
+                                            "bonus": "1",
+                                            "points": "5"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "29",
+                            "round": "8",
+                            "date": "30.11.2019",
+                            "time": "14:00"
+                        },
+                        "homeTeam": [
+                            "Berliner Rugby Club"
+                        ],
+                        "awayTeam": [
+                            "SC Germania List"
+                        ],
+                        "result": [
+                            {
+                                "$": {
+                                    "id": "29",
+                                    "round": "8",
+                                    "date": "30.11.2019",
+                                    "time": "14:00"
+                                },
+                                "home": [
+                                    {
+                                        "$": {
+                                            "score": "51",
+                                            "tries": "9",
+                                            "bonus": "1",
+                                            "points": "5"
+                                        }
+                                    }
+                                ],
+                                "away": [
+                                    {
+                                        "$": {
+                                            "score": "0",
+                                            "tries": "0",
+                                            "bonus": "0",
+                                            "points": "0"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "30",
+                            "round": "8",
+                            "date": "30.11.2019",
+                            "time": "14:00"
+                        },
+                        "homeTeam": [
+                            "RC Leipzig"
+                        ],
+                        "awayTeam": [
+                            "RK 03 Berlin"
+                        ],
+                        "result": [
+                            {
+                                "$": {
+                                    "id": "30",
+                                    "round": "8",
+                                    "date": "30.11.2019",
+                                    "time": "14:00"
+                                },
+                                "home": [
+                                    {
+                                        "$": {
+                                            "score": "45",
+                                            "tries": "7",
+                                            "bonus": "1",
+                                            "points": "5"
+                                        }
+                                    }
+                                ],
+                                "away": [
+                                    {
+                                        "$": {
+                                            "score": "31",
+                                            "tries": "5",
+                                            "bonus": "1",
+                                            "points": "1"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "31",
+                            "round": "8",
+                            "date": "30.11.2019",
+                            "time": "14:00"
+                        },
+                        "homeTeam": [
+                            "RC Berlin Grizzlies"
+                        ],
+                        "awayTeam": [
+                            "SG Odin/VfR Döhren"
+                        ],
+                        "comment": [
+                            "Parkstraße 1, 16515 Oranienburg"
+                        ],
+                        "result": [
+                            {
+                                "$": {
+                                    "id": "31",
+                                    "round": "8",
+                                    "date": "30.11.2019",
+                                    "time": "14:00"
+                                },
+                                "home": [
+                                    {
+                                        "$": {
+                                            "score": "26",
+                                            "tries": "4",
+                                            "bonus": "1",
+                                            "points": "5"
+                                        }
+                                    }
+                                ],
+                                "away": [
+                                    {
+                                        "$": {
+                                            "score": "22",
+                                            "tries": "4",
+                                            "bonus": "2",
+                                            "points": "2"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "32",
+                            "round": "8",
+                            "date": "30.11.2019",
+                            "time": "14:00"
+                        },
+                        "homeTeam": [
+                            "Hamburger RC"
+                        ],
+                        "awayTeam": [
+                            "Hannover 78"
+                        ],
+                        "result": [
+                            {
+                                "$": {
+                                    "id": "32",
+                                    "round": "8",
+                                    "date": "30.11.2019",
+                                    "time": "14:00"
+                                },
+                                "home": [
+                                    {
+                                        "$": {
+                                            "score": "3",
+                                            "tries": "0",
+                                            "bonus": "0",
+                                            "points": "0"
+                                        }
+                                    }
+                                ],
+                                "away": [
+                                    {
+                                        "$": {
+                                            "score": "39",
+                                            "tries": "6",
+                                            "bonus": "1",
+                                            "points": "5"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "33",
+                            "round": "9",
+                            "date": "14.03.2020",
+                            "time": "14:00",
+                            "status": "1",
+                            "statusText": "verlegt"
+                        },
+                        "homeTeam": [
+                            "RK 03 Berlin"
+                        ],
+                        "awayTeam": [
+                            "Berliner Rugby Club"
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "36",
+                            "round": "9",
+                            "date": "14.03.2020",
+                            "time": "15:00",
+                            "status": "1",
+                            "statusText": "verlegt"
+                        },
+                        "homeTeam": [
+                            "Hannover 78"
+                        ],
+                        "awayTeam": [
+                            "RC Berlin Grizzlies"
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "34",
+                            "round": "9",
+                            "date": "15.03.2020",
+                            "time": "13:00",
+                            "status": "1",
+                            "statusText": "verlegt"
+                        },
+                        "homeTeam": [
+                            {
+                                "_": "SG Odin/VfR Döhren",
+                                "$": {
+                                    "club": "2",
+                                    "pitch": "VfR Döhren"
+                                }
+                            }
+                        ],
+                        "awayTeam": [
+                            "RC Leipzig"
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "35",
+                            "round": "9",
+                            "date": "15.03.2020",
+                            "time": "15:00",
+                            "status": "1",
+                            "statusText": "verlegt"
+                        },
+                        "homeTeam": [
+                            "SC Germania List"
+                        ],
+                        "awayTeam": [
+                            "Hamburger RC"
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "37",
+                            "round": "10",
+                            "date": "28.03.2020",
+                            "time": "14:00",
+                            "status": "1",
+                            "statusText": "verlegt"
+                        },
+                        "homeTeam": [
+                            "Hamburger RC"
+                        ],
+                        "awayTeam": [
+                            "RK 03 Berlin"
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "38",
+                            "round": "10",
+                            "date": "28.03.2020",
+                            "time": "14:00",
+                            "status": "1",
+                            "statusText": "verlegt"
+                        },
+                        "homeTeam": [
+                            "RC Leipzig"
+                        ],
+                        "awayTeam": [
+                            "RC Berlin Grizzlies"
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "39",
+                            "round": "10",
+                            "date": "28.03.2020",
+                            "time": "14:00",
+                            "status": "1",
+                            "statusText": "verlegt"
+                        },
+                        "homeTeam": [
+                            "Berliner Rugby Club"
+                        ],
+                        "awayTeam": [
+                            "SG Odin/VfR Döhren"
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "40",
+                            "round": "10",
+                            "date": "28.03.2020",
+                            "time": "14:00",
+                            "status": "1",
+                            "statusText": "verlegt"
+                        },
+                        "homeTeam": [
+                            "SC Germania List"
+                        ],
+                        "awayTeam": [
+                            "Hannover 78"
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "41",
+                            "round": "11",
+                            "date": "04.04.2020",
+                            "time": "14:00",
+                            "status": "1",
+                            "statusText": "verlegt"
+                        },
+                        "homeTeam": [
+                            "Hannover 78"
+                        ],
+                        "awayTeam": [
+                            "RC Leipzig"
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "42",
+                            "round": "11",
+                            "date": "04.04.2020",
+                            "time": "15:00",
+                            "status": "1",
+                            "statusText": "verlegt"
+                        },
+                        "homeTeam": [
+                            "RK 03 Berlin"
+                        ],
+                        "awayTeam": [
+                            "SC Germania List"
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "44",
+                            "round": "11",
+                            "date": "04.04.2020",
+                            "time": "15:00",
+                            "status": "1",
+                            "statusText": "verlegt"
+                        },
+                        "homeTeam": [
+                            "RC Berlin Grizzlies"
+                        ],
+                        "awayTeam": [
+                            "Berliner Rugby Club"
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "43",
+                            "round": "11",
+                            "date": "05.04.2020",
+                            "time": "14:00",
+                            "status": "1",
+                            "statusText": "verlegt"
+                        },
+                        "homeTeam": [
+                            {
+                                "_": "SG Odin/VfR Döhren",
+                                "$": {
+                                    "club": "1",
+                                    "pitch": "Odin"
+                                }
+                            }
+                        ],
+                        "awayTeam": [
+                            "Hamburger RC"
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "47",
+                            "round": "12",
+                            "date": "18.04.2020",
+                            "time": "14:00",
+                            "status": "1",
+                            "statusText": "verlegt"
+                        },
+                        "homeTeam": [
+                            "SC Germania List"
+                        ],
+                        "awayTeam": [
+                            "SG Odin/VfR Döhren"
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "45",
+                            "round": "12",
+                            "date": "18.04.2020",
+                            "time": "15:00",
+                            "status": "1",
+                            "statusText": "verlegt"
+                        },
+                        "homeTeam": [
+                            "Berliner Rugby Club"
+                        ],
+                        "awayTeam": [
+                            "RC Leipzig"
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "46",
+                            "round": "12",
+                            "date": "18.04.2020",
+                            "time": "15:00",
+                            "status": "1",
+                            "statusText": "verlegt"
+                        },
+                        "homeTeam": [
+                            "Hamburger RC"
+                        ],
+                        "awayTeam": [
+                            "RC Berlin Grizzlies"
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "48",
+                            "round": "12",
+                            "date": "18.04.2020",
+                            "time": "15:00",
+                            "status": "1",
+                            "statusText": "verlegt"
+                        },
+                        "homeTeam": [
+                            "RK 03 Berlin"
+                        ],
+                        "awayTeam": [
+                            "Hannover 78"
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "51",
+                            "round": "13",
+                            "date": "25.04.2020",
+                            "time": "14:00",
+                            "status": "3",
+                            "statusText": "neue Uhrzeit"
+                        },
+                        "homeTeam": [
+                            "RC Leipzig"
+                        ],
+                        "awayTeam": [
+                            "Hamburger RC"
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "49",
+                            "round": "13",
+                            "date": "25.04.2020",
+                            "time": "15:00"
+                        },
+                        "homeTeam": [
+                            {
+                                "_": "SG Odin/VfR Döhren",
+                                "$": {
+                                    "club": "2",
+                                    "pitch": "VfR Döhren"
+                                }
+                            }
+                        ],
+                        "awayTeam": [
+                            "RK 03 Berlin"
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "50",
+                            "round": "13",
+                            "date": "25.04.2020",
+                            "time": "15:00"
+                        },
+                        "homeTeam": [
+                            "RC Berlin Grizzlies"
+                        ],
+                        "awayTeam": [
+                            "SC Germania List"
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "52",
+                            "round": "13",
+                            "date": "26.04.2020",
+                            "time": "14:00"
+                        },
+                        "homeTeam": [
+                            "Hannover 78"
+                        ],
+                        "awayTeam": [
+                            "Berliner Rugby Club"
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "53",
+                            "round": "14",
+                            "date": "09.05.2020",
+                            "time": "15:00"
+                        },
+                        "homeTeam": [
+                            "SC Germania List"
+                        ],
+                        "awayTeam": [
+                            "RC Leipzig"
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "54",
+                            "round": "14",
+                            "date": "09.05.2020",
+                            "time": "15:00"
+                        },
+                        "homeTeam": [
+                            "RK 03 Berlin"
+                        ],
+                        "awayTeam": [
+                            "RC Berlin Grizzlies"
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "55",
+                            "round": "14",
+                            "date": "09.05.2020",
+                            "time": "15:00"
+                        },
+                        "homeTeam": [
+                            "Hannover 78"
+                        ],
+                        "awayTeam": [
+                            "SG Odin/VfR Döhren"
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "56",
+                            "round": "14",
+                            "date": "09.05.2020",
+                            "time": "15:00"
+                        },
+                        "homeTeam": [
+                            "Hamburger RC"
+                        ],
+                        "awayTeam": [
+                            "Berliner Rugby Club"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
